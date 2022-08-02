@@ -1,7 +1,5 @@
 # **Навигация**
 
-[HTTP Методы](https://github.com/kirill-sotnikov/my-lib/blob/master/http%20methods.md)
-
-[REST API](https://github.com/kirill-sotnikov/my-lib/blob/master/http%20methods.md)
-
-[REST API](https://github.com/kirill-sotnikov/my-lib/blob/master/http%20methods.md)
+- [HTTP Методы](https://github.com/kirill-sotnikov/my-lib/blob/master/http_methods.md)
+- [REST API](https://github.com/kirill-sotnikov/my-lib/blob/master/REST_API.md)
+- [The_programmers_paradigm](https://github.com/kirill-sotnikov/my-lib/blob/master/The_programmers_paradigm.md)
