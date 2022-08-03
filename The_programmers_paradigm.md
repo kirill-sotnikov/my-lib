@@ -46,7 +46,7 @@
 
 https://doka.guide/js/programming-paradigms/ - тут можно найти примеры парадигм на основе js. Очень рекомендуется к прочтения (хотя бы полистайте).
 
-https://training.epam.ua/News/Items/275?lang=ru - подрробно об ООП и егог принципах.
+https://training.epam.ua/News/Items/275?lang=ru - подробно об ООП и его принципах.
 
 ### Парадигмы, которые мы затронули:
 
